@@ -1,5 +1,5 @@
 <?php session_start();
-
+//HAOUBUHAOUBZHIDAO
 include "admin_system/inc/conn.php";
 echo "位置B：".time();exit();
 include "admin_system/inc/function.php";
@@ -433,7 +433,9 @@ include "admin_system/inc/function.php";
 
 <!--==== Js files ====-->
 <!--==== Essential files ====-->
-<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.11.1.min.js">
+	78901323
+	</script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/bootstrapValidator.min.js"></script>
 <script type="text/javascript" src="js/modernizr.js"></script>
