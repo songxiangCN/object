@@ -1,10 +1,5 @@
 <?php
 
-<<<<<<< .merge_file_NAYDy7
-//我是主分支
-=======
-
-//
 
 //我是张三的分支
   function zhangsan(){
@@ -13,6 +8,5 @@
   }
 
 
->>>>>>> .merge_file_fAQLnU
 
 ?>

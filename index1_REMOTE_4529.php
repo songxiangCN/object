@@ -1,8 +1,5 @@
 <?php
 
-<<<<<<< .merge_file_NAYDy7
-//我是主分支
-=======
 
 //
 
@@ -13,6 +10,5 @@
   }
 
 
->>>>>>> .merge_file_fAQLnU
 
 ?>
